@@ -41,7 +41,7 @@
         </div>
         <div class="hero-image">
           <div class="profile-image">
-            <img src="/images/yigidoresim.jpg" alt="Yiğit Türkiş"/>
+            <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face" alt="Yiğit Türkiş"/>
           </div>
         </div>
       </div>
@@ -180,7 +180,7 @@ export default {
       title: "Junior Front-End Developer",
       description: "Merhaba! Ben Yiğit, kendini geliştirmeye çalışan bir Junior Front-End Developer'ım. HTML, CSS ve JavaScript ile modern ve kullanıcı dostu web siteleri tasarlamayı seviyorum.\n" +
           "Yeni teknolojiler öğrenmeye, projelerimle deneyim kazanmaya ve her gün bir adım daha ileri gitmeye çalışıyorum",
-      profileImage: "/images/yigidoresim.jpg",
+      profileImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
       about: "Front-End geliştirme alanında kendimi sürekli geliştiren bir Junior Developer'ım. HTML, CSS ve JavaScript teknolojilerini kullanarak modern ve responsive web arayüzleri oluşturuyorum. Amacım kullanıcı deneyimini ön planda tutan, sade ve etkileyici web siteleri tasarlamak.\n" +
           "Yeni teknolojileri öğrenmeyi, projeler üzerinden deneyim kazanmayı ve her geçen gün daha iyi işler ortaya koymayı hedefliyorum.",
       stats: [
